@@ -47,3 +47,4 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+scripts/06_faseamento_condicional.R

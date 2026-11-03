@@ -1,0 +1,8 @@
+--- REGISTRO DE FERRAMENTAS DO PIPELINE ---
+Data de execução: seg. 07 set 2026 13:23:53 -03
+
+[MAFFT Version]
+v7.525 (2024/Mar/13)
+
+[SeqKit Version]
+seqkit v2.10.1
